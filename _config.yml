@@ -96,10 +96,10 @@ lang: en-GB # Set the site language
 title: "新疆大学飓风机器人队仿生足式视觉组" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "新疆大学飓风机器人队仿生足式视觉组技术博客" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://xjuhurricanequadvision.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://xjuhurricanequadvision.github.io/"
+email: "jacksonhuang5201@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -121,22 +121,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: 主页Home
   url: /
 - title: Elements
   url: /elements/
-- title: Blog
+- title: 博客Blog
   url: /blog/
-- title: Categories
+- title: 分类Categories
   url: /categories/
-- title: Search
+- title: 查找Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Jackson Huang
+  url: https://github.com/hyyyyyyz
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
