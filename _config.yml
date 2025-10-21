@@ -63,11 +63,11 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: 博客园 # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "一些技术想法以及博客" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Welcome to the hurricane's blogs
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -121,15 +121,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: 主页Home
+- title: 主页
   url: /
-- title: Elements
+- title: 简介
   url: /elements/
-- title: 博客Blog
+- title: 博客
   url: /blog/
-- title: 分类Categories
+- title: 分类
   url: /categories/
-- title: 查找Search
+- title: 查找
   url: /search/
 
 navigation_footer:
