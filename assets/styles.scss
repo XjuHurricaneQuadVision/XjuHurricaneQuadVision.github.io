@@ -4,3 +4,36 @@ styles: true
 ---
 
 @import "alembic";
+
+.content {
+  max-width: 100%;
+  padding: 0;
+}
+
+.typeset {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1200px;  // 增加容器最大宽度
+  padding: 0 2rem;
+  margin: 0 auto;
+}
+
+// 特别针对首页标题的样式
+.typeset h2,
+.typeset h3,
+.typeset p {
+  max-width: none;
+  width: 100%;
+}
+
+// 确保标题不换行
+.article-header h1,
+.article-header h2,
+.article-header h3 {
+  max-width: none;
+  width: 100%;
+  white-space: nowrap;
+  overflow: visible;
+}
