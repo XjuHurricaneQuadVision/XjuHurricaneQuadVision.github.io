@@ -1,5 +1,15 @@
-> 这是一篇有关于小电脑烧录系统的文章，由于小电脑买来默认烧录的事Nvidia修改过的ubuntu20.04，所以没法用，我们需要烧录适配的纯净版ubuntu22.04，但是网上资料有点杂乱，所以写一篇记录一下。
-作者：新疆大学 计算机科学与技术 黄耀增
+---
+title: Nvidia Jetson Orin Nano 烧录 ubuntu22.04
+categories:
+- General
+excerpt: |
+  这是一篇有关于小电脑烧录系统的文章，由于小电脑买来默认烧录的事Nvidia修改过的ubuntu20.04，所以没法用，我们需要烧录适配的纯净版ubuntu22.04，但是网上资料有点杂乱，所以写一篇记录一下。
+feature_text: |
+  ##作者 
+  新疆大学 计算机科学与技术 黄耀增
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
 
 # 一、安装SDK-Manager
 
