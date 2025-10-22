@@ -5,7 +5,7 @@ categories:
 excerpt: |
   这是一篇有关于小电脑烧录系统的文章，由于小电脑买来默认烧录的事Nvidia修改过的ubuntu20.04，所以没法用，我们需要烧录适配的纯净版ubuntu22.04，但是网上资料有点杂乱，所以写一篇记录一下。
 feature_text: |
-  ##作者 
+  ## 作者 
   新疆大学 计算机科学与技术 黄耀增
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
@@ -31,15 +31,15 @@ sudo dpkg -i sdkmanager_2.2.0-12028_amd64.deb
 
 首先别给小电脑上电，先用杜邦线把小电脑设置为刷机模式，如下图：
 
-![image.png](_posts/2025-10-22-jetson-orin-nano/image_1.png)
+![image.png](assets/images/2025-10-22-jetson-orin-nano/image_1.png)
 
 用杜邦线短接第二个和第三个引脚，然后上电启动小电脑，把type-C线连接小电脑和你的主机，打开刚刚安装的SDK-Manager，进入界面后，如下图所示：
 
-![image.png](_posts/2025-10-22-jetson-orin-nano/image_2.png)
+![image.png](assets/images/2025-10-22-jetson-orin-nano/image_2.png)
 
 然后continue即可，其他基本默认即可，但是遇到这两个记得选择这些选项，剩下的东西安装skip即可，因为现在配置一些东西有点麻烦，也可能会导致后面启动后失败。
 
-![image.png](_posts/2025-10-22-jetson-orin-nano/image_3.png)
+![image.png](assets/images/2025-10-22-jetson-orin-nano/image_3.png)
 
 # 三、启动小电脑
 
