@@ -3,6 +3,13 @@ site_url: https://XjuHurricaneQuadVision.github.io
 repo_url: https://github.com/XjuHurricaneQuadVision/XjuHurricaneQuadVision.github.io
 edit_uri: edit/main/docs/
 
+nav:
+  - Home: 'index.md'
+  - About: 
+      - profile: 'zh/About/index.md'
+      - Teammates: 'zh/About/Teammates/Teammates.md'
+  - Documents: 'zh/Documents/'
+
 
 theme:
   name: material
@@ -97,7 +104,3 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-
-nav:
-  - Home: index.md
-

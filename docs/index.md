@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+---
+title: "新疆大学飓风战队四足机器人视觉组文档站"
+hide:
+  - navigation
+  - toc
+comments: true 
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 欢迎访问新疆大学飓风战队四足机器人视觉组文档站
 
-## Commands
+这里有一些有关于四足机器人视觉部分技术的分享资料以及一些硬件调试教程，不断更新中……敬请期待！
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+欢迎提出意见，参与讨论！
