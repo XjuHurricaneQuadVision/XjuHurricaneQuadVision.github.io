@@ -8,8 +8,18 @@ nav:
   - About: 
       - profile: 'zh/About/index.md'
       - Teammates: 'zh/About/Teammates/Teammates.md'
-  - Documents: 'zh/Documents/'
-
+  - Documents:
+      - ROS2:
+          - ROS2入门必知,先人帮忙踩的坑别再踩了!: 'zh/Documents/ROS2/ROS2入门必知先人帮忙踩的坑别再踩了.md'
+          - ROS2 launch理解: 'zh/Documents/ROS2/ROS2launch理解.md'
+          - 拓展一些ROS2操作以及命令: 'zh/Documents/ROS2/拓展一些ROS2操作以及命令.md'
+          - ROS2代码模板: 'zh/Documents/ROS2/ROS2代码模板.md'
+      - 四足机器人导航:
+          - lidar:
+            - mid-360配置教程:
+              - 基于ubuntu系统的驱动配置以及初步建图: 'zh/Documents/四足机器人导航/基于ubuntu系统的驱动配置以及初步建图.md'
+              - 激光雷达SLAM算法fast_lio部署与配置: 'zh/Documents/四足机器人导航/激光雷达SLAM算法fast_lio部署与配置.md'
+              - 雷达驱动以及里程计相关话题记录: 'zh/Documents/四足机器人导航/雷达驱动以及里程计相关话题记录.md'
 
 theme:
   name: material
