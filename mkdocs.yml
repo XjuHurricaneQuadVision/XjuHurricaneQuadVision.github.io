@@ -20,6 +20,12 @@ nav:
               - 基于ubuntu系统的驱动配置以及初步建图: 'zh/Documents/四足机器人导航/基于ubuntu系统的驱动配置以及初步建图.md'
               - 激光雷达SLAM算法fast_lio部署与配置: 'zh/Documents/四足机器人导航/激光雷达SLAM算法fast_lio部署与配置.md'
               - 雷达驱动以及里程计相关话题记录: 'zh/Documents/四足机器人导航/雷达驱动以及里程计相关话题记录.md'
+      - 相关工具教程:
+          - 软件工具教程: 'docs/zh/Documents/相关工具教程/NvidiaJetsonOrinNano烧录教程.md'
+          - 硬件工具教程:
+              - Nvidia Jetson Orin Nano:
+                  - 烧录教程: 'zh/Documents/相关工具教程/NvidiaJetsonOrinNano烧录教程.md'
+          
 
 theme:
   name: material
